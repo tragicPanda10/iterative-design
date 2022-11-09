@@ -1,0 +1,69 @@
+body {
+    font-family:Helvetica, sans-serif;
+    background:
+    linear-gradient(to bottom right,rgb(161, 214, 191), rgb(81, 192, 51));
+}
+
+.bgi {
+    background:
+    linear-gradient(to right, rgba(248, 249, 250,1),rgba(248,249,250,0.1), rgba(255,255,255,0)),
+    url('./images/image-home\ copy.jpg') center;
+    height:50vh;
+    width:100%;
+}
+
+.sketchimg {
+    height:50vh;
+    width:auto;
+}
+
+.sketchimg1 {
+    width:240px;
+    height:auto;
+}
+
+.sketchimg2 {
+    width:200px;
+    height:333px;
+}
+
+.body-space {
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    margin-bottom:1rem;
+    max-width:1080px;
+}
+
+.titling {
+    color:rgb(0, 63, 0);
+    font-size:3rem;
+    font-weight:bold;
+}
+
+.subtitling {
+    color:rgb(20, 111, 72);
+    font-size:2.5rem;
+    font-weight:bold;
+}
+
+.caritem {
+    max-width:360px;
+    margin:auto;
+
+}
+
+.cap {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 3rem;
+}
+
+li {
+    margin: 2rem;
+    font-size:1.5rem;
+}
