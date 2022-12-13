@@ -37,13 +37,12 @@ body {
 .titling {
     color:rgb(0, 63, 0);
     font-size:3rem;
-    font-weight:bold;
+
 }
 
 .subtitling {
     color:rgb(20, 111, 72);
     font-size:2rem;
-    font-weight:bold;
 }
 
 .caritem {
